@@ -1,0 +1,22 @@
+{
+  "name": "mkoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zquancai/mkoa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "zquancai@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zquancai/mkoa/issues"
+  },
+  "homepage": "https://github.com/zquancai/mkoa#readme"
+}
